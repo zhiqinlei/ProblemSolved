@@ -1,6 +1,3 @@
-# LeetCodePractice
-A record of my leetcode practice
+# Daily Practice
+A record of my solved problems
 
-Current Solutions:
-1. Two Sum
-104. Maximum Depth of Binary Tree
