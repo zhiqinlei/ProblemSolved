@@ -1,5 +1,5 @@
 """
-Two Sum (#1)
+Two Sum (#1) - solved
 Median of Two Sorted Arrays * (#4)
 Longest Palindromic Substring (#5)
 String to Integer (atoi) (#8)
