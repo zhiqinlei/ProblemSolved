@@ -1,7 +1,7 @@
 """
 Two Sum (#1) - solved
 Median of Two Sorted Arrays * (#4)
-Longest Palindromic Substring (#5)
+Longest Palindromic Substring (#5) - solved
 String to Integer (atoi) (#8)
 Integer to Roman (#12)
 Roman to Integer (#13)
