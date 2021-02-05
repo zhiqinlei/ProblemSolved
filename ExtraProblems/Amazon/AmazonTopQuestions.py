@@ -2,9 +2,9 @@
 Two Sum (#1) - solved
 Median of Two Sorted Arrays * (#4)
 Longest Palindromic Substring (#5) - solved
-String to Integer (atoi) (#8)
+String to Integer (atoi) (#8) - solved
 Integer to Roman (#12)
-Roman to Integer (#13)
+Roman to Integer (#13) - solved
 Valid Parentheses (#20)
 Merge K Sorted Lists (#23)
 Valid Sudoku (#36)
