@@ -5,7 +5,7 @@ Longest Palindromic Substring (#5) - solved
 String to Integer (atoi) (#8) - solved
 Integer to Roman (#12)
 Roman to Integer (#13) - solved
-Valid Parentheses (#20)
+Valid Parentheses (#20) - solved
 Merge K Sorted Lists (#23)
 Valid Sudoku (#36)
 Combination Sum (#39)
