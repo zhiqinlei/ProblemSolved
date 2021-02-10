@@ -16,7 +16,7 @@ Minimum Path Sum (#64)
 Word Search (#79)
 Validate Binary Search Tree(#98)
 Same Tree ~ (#100)
-Symmetric Tree ~ (#101)
+Symmetric Tree ~ (#101) - solved
 Binary Tree Level Order Traversal (#102)
 Convert Sorted List to Binary Search Tree (#109)
 Populating Next Right Pointers in Each Node (#116)
