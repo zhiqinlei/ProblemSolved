@@ -20,7 +20,7 @@ Symmetric Tree ~ (#101) - solved
 Binary Tree Level Order Traversal (#102)
 Convert Sorted List to Binary Search Tree (#109)
 Populating Next Right Pointers in Each Node (#116)
-Best Time to Buy and Sell Stock (#121)
+Best Time to Buy and Sell Stock (#121) - solved
 Word Ladder II (#126)
 Word Ladder (#127)
 LRU Cache (#146)
