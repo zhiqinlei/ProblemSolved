@@ -38,5 +38,5 @@ Design Tic-Tac-Toe (#348)
 Pacific Atlantic Water Flow (#417)
 Minesweeper (#529)
 Diameter of Binary Tree (#543)
-Reorganize String (#767)
+Reorganize String (#767) - wait to be solved
 """
