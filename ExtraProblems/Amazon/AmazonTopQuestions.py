@@ -36,7 +36,7 @@ Find Median from Data Stream (#295)
 Longest Increasing Subsequence (#300)
 Design Tic-Tac-Toe (#348)
 Pacific Atlantic Water Flow (#417)
-Minesweeper (#529)
+Minesweeper (#529) - wait to be solved
 Diameter of Binary Tree (#543) - wait to be solved
 Reorganize String (#767) - wait to be solved
 """
