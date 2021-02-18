@@ -49,6 +49,10 @@ def groupIsomorphic(strs):
 
 print(groupIsomorphic(['aab', 'xxy', 'xyz', 'abc', 'def', 'xyx']))
 
+# one line code
+def isIsomorphic(self, s, t):
+    return len(set(zip(s, t))) == len(set(s)) == len(set(t))
+
 # more interesting solutions
 def isIsomorphic1(self, s, t):
         d1, d2 = {}, {}
