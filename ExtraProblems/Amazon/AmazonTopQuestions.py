@@ -34,7 +34,7 @@ Integer to English Words (#273)
 Game of Life (#289)
 Find Median from Data Stream (#295)
 Longest Increasing Subsequence (#300)
-Design Tic-Tac-Toe (#348)
+Design Tic-Tac-Toe (#348) - wait to be solved
 Pacific Atlantic Water Flow (#417) - wait to be solved
 Minesweeper (#529) - wait to be solved
 Diameter of Binary Tree (#543) - wait to be solved
