@@ -33,7 +33,7 @@ Word Search II (#212)
 Integer to English Words (#273)
 Game of Life (#289)
 Find Median from Data Stream (#295)
-Longest Increasing Subsequence (#300)
+Longest Increasing Subsequence (#300) - wait to be solved
 Design Tic-Tac-Toe (#348) - wait to be solved
 Pacific Atlantic Water Flow (#417) - wait to be solved
 Minesweeper (#529) - wait to be solved
