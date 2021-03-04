@@ -30,7 +30,7 @@ Course Schedule (#207)
 Course Schedule II (#210)
 Add and Search Word - Data structure design (#211)
 Word Search II (#212)
-Integer to English Words (#273)
+Integer to English Words (#273) - wait to be solved
 Game of Life (#289) - wait to be solved
 Find Median from Data Stream (#295) - wait to be solved
 Longest Increasing Subsequence (#300) - wait to be solved
