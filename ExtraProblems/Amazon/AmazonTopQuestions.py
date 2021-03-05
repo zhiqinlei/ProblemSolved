@@ -8,7 +8,7 @@ Roman to Integer (#13) - solved
 Valid Parentheses (#20) - solved
 Merge K Sorted Lists (#23)
 Valid Sudoku (#36) - solved
-Combination Sum (#39)
+Combination Sum (#39) - solved
 Permutations (#46)
 Merge Intervals (#56)
 Rotate List (#61)
