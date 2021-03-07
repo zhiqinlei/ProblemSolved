@@ -9,7 +9,7 @@ Valid Parentheses (#20) - solved
 Merge K Sorted Lists (#23)
 Valid Sudoku (#36) - solved
 Combination Sum (#39) - solved
-Permutations (#46)
+Permutations (#46) - solved
 Merge Intervals (#56)
 Rotate List (#61)
 Minimum Path Sum (#64)
