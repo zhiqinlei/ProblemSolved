@@ -15,7 +15,7 @@ Rotate List (#61)
 Minimum Path Sum (#64)
 Word Search (#79)
 Validate Binary Search Tree(#98)
-Same Tree ~ (#100)
+Same Tree ~ (#100) - solved
 Symmetric Tree ~ (#101) - solved
 Binary Tree Level Order Traversal (#102)
 Convert Sorted List to Binary Search Tree (#109)
