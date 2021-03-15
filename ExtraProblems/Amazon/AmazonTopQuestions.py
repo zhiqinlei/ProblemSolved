@@ -26,7 +26,7 @@ Word Ladder (#127)
 LRU Cache (#146)
 Min Stack (#155)
 Number of Islands (#200)
-Course Schedule (#207)
+Course Schedule (#207) - wait to be solved
 Course Schedule II (#210) - wait to be solved
 Add and Search Word - Data structure design (#211) - wait to be solved
 Word Search II (#212) - wait to be solved
