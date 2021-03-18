@@ -24,7 +24,7 @@ Best Time to Buy and Sell Stock (#121) - solved
 Word Ladder II (#126)
 Word Ladder (#127)
 LRU Cache (#146)
-Min Stack (#155)
+Min Stack (#155) - wait to be solved
 Number of Islands (#200) - wait to be solved
 Course Schedule (#207) - wait to be solved
 Course Schedule II (#210) - wait to be solved
