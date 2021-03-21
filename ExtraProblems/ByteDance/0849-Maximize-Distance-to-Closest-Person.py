@@ -30,3 +30,11 @@ class Solution:
         return max(_max_distance, count)
 
 # question 2 tree变异 记录ancestors not sure leetcode number
+
+# 前端实习生笔试
+
+# 喂猴子香蕉 最多食量*2 少于n//2 最后猴子全拿，最少香蕉
+
+# n取m连续子序最大值
+
+# n个s字符，a加1/减1，b乘2
