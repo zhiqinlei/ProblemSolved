@@ -23,7 +23,7 @@ Populating Next Right Pointers in Each Node (#116)
 Best Time to Buy and Sell Stock (#121) - solved
 Word Ladder II (#126)
 Word Ladder (#127)
-LRU Cache (#146)
+LRU Cache (#146) - wait to be solved
 Min Stack (#155) - wait to be solved
 Number of Islands (#200) - wait to be solved
 Course Schedule (#207) - wait to be solved
