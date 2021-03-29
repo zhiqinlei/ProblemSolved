@@ -21,7 +21,7 @@ Binary Tree Level Order Traversal (#102)
 Convert Sorted List to Binary Search Tree (#109)
 Populating Next Right Pointers in Each Node (#116)
 Best Time to Buy and Sell Stock (#121) - solved
-Word Ladder II (#126)
+Word Ladder II (#126) - wait to be solved
 Word Ladder (#127) - wait to be solved
 LRU Cache (#146) - wait to be solved
 Min Stack (#155) - wait to be solved
