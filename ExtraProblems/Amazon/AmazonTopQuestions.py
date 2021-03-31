@@ -18,7 +18,7 @@ Validate Binary Search Tree(#98)
 Same Tree ~ (#100) - solved
 Symmetric Tree ~ (#101) - solved
 Binary Tree Level Order Traversal (#102)
-Convert Sorted List to Binary Search Tree (#109)
+Convert Sorted List to Binary Search Tree (#109) - wait to be solved
 Populating Next Right Pointers in Each Node (#116) - wait to be solved
 Best Time to Buy and Sell Stock (#121) - solved
 Word Ladder II (#126) - wait to be solved
