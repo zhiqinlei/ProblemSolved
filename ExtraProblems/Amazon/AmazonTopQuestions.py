@@ -14,7 +14,7 @@ Merge Intervals (#56)
 Rotate List (#61)
 Minimum Path Sum (#64)
 Word Search (#79)
-Validate Binary Search Tree(#98)
+Validate Binary Search Tree(#98) - wait to be solved
 Same Tree ~ (#100) - solved
 Symmetric Tree ~ (#101) - solved
 Binary Tree Level Order Traversal (#102) - wait to be solved
