@@ -12,7 +12,7 @@ Combination Sum (#39) - solved
 Permutations (#46) - solved
 Merge Intervals (#56)
 Rotate List (#61)
-Minimum Path Sum (#64)
+Minimum Path Sum (#64) - wait to be solved
 Word Search (#79) - wait to be solved
 Validate Binary Search Tree(#98) - wait to be solved
 Same Tree ~ (#100) - solved
