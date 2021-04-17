@@ -6,7 +6,7 @@ String to Integer (atoi) (#8) - solved
 Integer to Roman (#12)
 Roman to Integer (#13) - solved
 Valid Parentheses (#20) - solved
-Merge K Sorted Lists (#23)
+Merge K Sorted Lists (#23) - wait to be solved
 Valid Sudoku (#36) - solved
 Combination Sum (#39) - solved
 Permutations (#46) - solved
