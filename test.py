@@ -1,2 +1,2 @@
-# for test
+# for test git account on mac
 
