@@ -1,7 +1,6 @@
 """
 
 
-
 Two Sum (#1) - solved
 Median of Two Sorted Arrays * (#4) - wait to be solved
 Longest Palindromic Substring (#5) - solved
