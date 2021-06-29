@@ -1,3 +1,8 @@
+#Use binary search.
+
+#n * m matrix convert to an array => matrix[x][y] => a[x * m + y]
+
+#an array convert to n * m matrix => a[x] =>matrix[x / m][x % m];
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         if not matrix or target is None:
