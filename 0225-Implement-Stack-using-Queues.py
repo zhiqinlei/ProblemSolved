@@ -6,7 +6,7 @@ class MyStack:
         """
         self.q1 = collections.deque()
         self.q2 = collections.deque()
-        self.Top = None
+        self.Top = None # cannot use top
         
 
     def push(self, x: int) -> None:
@@ -24,7 +24,7 @@ class MyStack:
         Removes the element on top of the stack and returns that element.
         """
         ans = self.q1.popleft()
-        if self.q1:
+        if self.q1: # check q1
             self.Top = self.q1[0]
         return ans
         
