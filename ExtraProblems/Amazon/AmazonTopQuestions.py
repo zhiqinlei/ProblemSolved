@@ -16,7 +16,7 @@ Permutations (#46) - solved
 Merge Intervals (#56) - wait to be solved
 Rotate List (#61) - wait to be solved
 Minimum Path Sum (#64) - wait to be solved
-Word Search (#79) - wait to be solved
+Word Search (#79) - solved
 Validate Binary Search Tree(#98) - wait to be solved
 Same Tree ~ (#100) - solved
 Symmetric Tree ~ (#101) - solved
