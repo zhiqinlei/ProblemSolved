@@ -15,6 +15,6 @@ class Solution:
                 if i == "*":
                     stack.append(num1*num2)
                 if i == "/":
-                    stack.append(int(float(num1/num2))) # not // will truncate to zero
+                    stack.append(int(num1/num2)) # not // will truncate to zero
         
         return stack.pop()
