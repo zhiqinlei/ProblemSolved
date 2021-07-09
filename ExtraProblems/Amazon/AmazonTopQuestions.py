@@ -40,6 +40,6 @@ Longest Increasing Subsequence (#300) - wait to be solved
 Design Tic-Tac-Toe (#348) - wait to be solved
 Pacific Atlantic Water Flow (#417) - wait to be solved
 Minesweeper (#529) - wait to be solved
-Diameter of Binary Tree (#543) - wait to be solved
+Diameter of Binary Tree (#543) - solved
 Reorganize String (#767) - wait to be solved
 """
