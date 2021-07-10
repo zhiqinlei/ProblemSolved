@@ -30,7 +30,7 @@ LRU Cache (#146) - wait to be solved
 Min Stack (#155) - wait to be solved
 Number of Islands (#200) - wait to be solved
 Course Schedule (#207) - wait to be solved
-Course Schedule II (#210) - wait to be solved
+Course Schedule II (#210) - solved
 Add and Search Word - Data structure design (#211) - wait to be solved
 Word Search II (#212) - wait to be solved
 Integer to English Words (#273) - wait to be solved
