@@ -13,7 +13,7 @@ Merge K Sorted Lists (#23) - wait to be solved
 Valid Sudoku (#36) - solved
 Combination Sum (#39) - solved
 Permutations (#46) - solved
-Merge Intervals (#56) - wait to be solved
+Merge Intervals (#56) - solved
 Rotate List (#61) - solved
 Minimum Path Sum (#64) - wait to be solved
 Word Search (#79) - solved
