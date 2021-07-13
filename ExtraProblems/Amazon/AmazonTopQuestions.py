@@ -15,13 +15,13 @@ Combination Sum (#39) - solved
 Permutations (#46) - solved
 Merge Intervals (#56) - solved
 Rotate List (#61) - solved
-Minimum Path Sum (#64) - wait to be solved
+Minimum Path Sum (#64) - solved
 Word Search (#79) - solved
-Validate Binary Search Tree(#98) - wait to be solved
+Validate Binary Search Tree(#98) - solved
 Same Tree ~ (#100) - solved
 Symmetric Tree ~ (#101) - solved
-Binary Tree Level Order Traversal (#102) - wait to be solved
-Convert Sorted List to Binary Search Tree (#109) - wait to be solved
+Binary Tree Level Order Traversal (#102) - solved
+Convert Sorted List to Binary Search Tree (#109) - solved
 Populating Next Right Pointers in Each Node (#116) - wait to be solved
 Best Time to Buy and Sell Stock (#121) - solved
 Word Ladder II (#126) - wait to be solved
