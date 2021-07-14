@@ -22,14 +22,14 @@ Same Tree ~ (#100) - solved
 Symmetric Tree ~ (#101) - solved
 Binary Tree Level Order Traversal (#102) - solved
 Convert Sorted List to Binary Search Tree (#109) - solved
-Populating Next Right Pointers in Each Node (#116) - wait to be solved
+Populating Next Right Pointers in Each Node (#116) - solved
 Best Time to Buy and Sell Stock (#121) - solved
 Word Ladder II (#126) - wait to be solved
 Word Ladder (#127) - wait to be solved
-LRU Cache (#146) - wait to be solved
-Min Stack (#155) - wait to be solved
-Number of Islands (#200) - wait to be solved
-Course Schedule (#207) - wait to be solved
+LRU Cache (#146) - solved
+Min Stack (#155) - solved
+Number of Islands (#200) - solved
+Course Schedule (#207) - solved
 Course Schedule II (#210) - solved
 Add and Search Word - Data structure design (#211) - wait to be solved
 Word Search II (#212) - wait to be solved
