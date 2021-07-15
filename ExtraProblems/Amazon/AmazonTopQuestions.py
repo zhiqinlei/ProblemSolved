@@ -33,7 +33,7 @@ Course Schedule (#207) - solved
 Course Schedule II (#210) - solved
 Add and Search Word - Data structure design (#211) - solved
 Word Search II (#212) - wait to be solved
-Integer to English Words (#273) - wait to be solved
+Integer to English Words (#273) - solved
 Game of Life (#289) - wait to be solved
 Find Median from Data Stream (#295) - wait to be solved
 Longest Increasing Subsequence (#300) - wait to be solved
