@@ -1,5 +1,6 @@
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
+        # similar to 300 and 516
         # we can use 2d dp to solve this problem
         # lc cn solution https://leetcode-cn.com/problems/longest-common-subsequence/solution/zui-chang-gong-gong-zi-xu-lie-by-leetcod-y7u0/
         # use dp[i][j] to represent the longest common subsequence between text1[0:i] and text2[0:j]
