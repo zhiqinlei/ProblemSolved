@@ -6,11 +6,11 @@ class Solution:
         # use dic to record seen
         
         seen_idx = {} # recored seen num and its idx, dic[key] = value
-        key = -1
+        key = -1 # use key to represent left pointer
         res = 0
         
-        for idx, ch in enumerate(s):
-            if ch in seen_idx and seen_idx[ch] > key: 
+        for idx, ch in enumerate(s): # idx as the right pointer
+            if ch in seen_idx and seen_idx[ch] > key: # if find repeat, update left pointer
                 key = seen_idx[ch] # move left to repeating num right
                 seen_idx[ch] = idx
             else:
