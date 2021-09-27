@@ -1,34 +1,16 @@
 # https://leetcode.com/discuss/interview-question/797541/Amazon-Online-Assessment-2-SDE-1(-New-Graduate-)-2021-(-Coding-2-Questions-)-With-Solutions/659925
 """
-Your team at amazon is overseeing the design of a new high-efficiency data center at HQ2. A power grid need to be generated for supplying power to N servers. All servers in the grid have to be connected such that they have access to power. The cost of connections between different servers varies.
-
-Assume that there are no ties, names of servers are unique, connections are directionless, there is at most one connection between a pair of servers, all costs are greater than zero, and a server does not connect to itself.
-
-Write an algorithm to minimize the cost of connecting all servers in the power grid.
-
-Input
-two arguments - num, an Integer representing number of connections.
-connectons, representing a list of connections where each element of the list consists of two servers and the cost of connection between the servers.
-
-Note
-The cost of connection between the servers is always greater than 0.
-
-Example
-Input
-num = 5
-
-connection =
- 	 [[A,B,1],
- 	 [B,C,4],
- 	 [B,D,6],
- 	 [D,E,5],
- 	 [C,E,1]]
-Output
-
-[[A,B,1],
-[B,C,4],
-[C,E,1],
-[D,E,5]]
+第一題是給二維矩陣，計算connection數量
+比如
+1 0 1
+1 1 1
+0 1 0
+第一層2個node
+第二層3個
+那麼一二層之間的connection就是2 * 3 = 6
+第三層1個
+二三層之間connection是3 * 1 = 3
+要的是total = 9
 """
 def numberOfConnections(gridOfNodes):
     # time complexity O(n^2)
